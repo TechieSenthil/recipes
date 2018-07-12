@@ -1,3 +1,4 @@
+slice capcicum, carrot, radish, beetroot
 add vinegar
 add lime juice
 add some peper
